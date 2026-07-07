@@ -1,0 +1,18 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Products Collection: Anyone can read, write requires admin (or we can block client writes for now)
+    match /products/{productId} {
+      allow read: if true;
+      allow write: if true; // In production this would be restricted, but for this full-stack prototype we allow updates to stock or initial seeding.
+    }
+
+    // Orders Collection: Anyone can create orders.
+    // Reading is allowed so clients can track their orders and admins can manage them.
+    match /orders/{orderId} {
+      allow read: if true;
+      allow create: if true;
+      allow update, delete: if true; // Users can update status or admins can update status.
+    }
+  }
+}

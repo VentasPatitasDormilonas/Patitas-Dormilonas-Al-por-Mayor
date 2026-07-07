@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Patitas Dormilonas",
+  "description": "Tienda virtual de camas para mascotas con pasarela de pagos integrada para el descanso de tu mejor amigo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

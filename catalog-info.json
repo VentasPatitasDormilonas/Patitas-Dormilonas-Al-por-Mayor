@@ -1,0 +1,362 @@
+[
+  {
+    "sku": "LX-131",
+    "name": "Iglú Tiburón Divertido",
+    "description": "Cama iglú cerrada con un adorable y divertido diseño de tiburón en color gris. Confeccionada con felpa de tacto suave y acolchado de espuma densa que mantiene su estructura. Posee una base antideslizante para evitar deslizamientos.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Gris Tiburón"],
+    "features": ["Estructura rígida de espuma", "Relleno térmico abrigador", "Base impermeable antideslizante"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "50x52 cm",
+        "price": 20,
+        "moq": 25
+      },
+      {
+        "size": "L",
+        "dimensions": "50x52 cm",
+        "price": 30,
+        "moq": 25
+      }
+    ]
+  },
+  {
+    "sku": "LX-140",
+    "name": "Domo Cuna con Juguete Colgante",
+    "description": "Cama domo semi-cerrada de color gris claro con una divertida pelota colgante que incentiva el juego de tu mascota antes de dormir. Interior acolchado de algodón de alta densidad que proporciona calor y comodidad incomparables.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Gris Claro"],
+    "features": ["Juguete colgante antiestrés", "Doble capa térmica protectora", "Acolchado de algodón premium"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "40x38x36 cm",
+        "price": 25,
+        "moq": 25
+      },
+      {
+        "size": "L",
+        "dimensions": "47x43x43 cm",
+        "price": 35,
+        "moq": 25
+      }
+    ]
+  },
+  {
+    "sku": "LX-138",
+    "name": "Iglú Ranita Verde",
+    "description": "Encantadora cama cerrada con diseño de ranita verde y borde amarillo brillante. Ofrece un refugio sumamente abrigador y acogedor, ideal para gatos y perros pequeños que adoran dormir tapados o protegidos.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Verde Ranita"],
+    "features": ["Forma ergonómica de ranita", "Forro térmico autocalentable", "Base antideslizante impermeable"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "32x32x28 cm",
+        "price": 25,
+        "moq": 30
+      },
+      {
+        "size": "L",
+        "dimensions": "45x42 cm",
+        "price": 37,
+        "moq": 25
+      }
+    ]
+  },
+  {
+    "sku": "LX-134",
+    "name": "Cuna Gatito Soft",
+    "description": "Cuna circular acolchada de felpa extra suave con un hermoso bordado de gatito en el respaldo. Posee bordes elevados súper mullidos que sirven de almohadilla de apoyo para el cuello y la cabeza de tu engreído.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Rosa Pastel", "Gris Plata"],
+    "features": ["Bordes elevados ergonómicos", "Superficie de felpa ultra suave", "Ideal para siestas profundas"],
+    "variants": [
+      {
+        "size": "L",
+        "dimensions": "45x43x25 cm",
+        "price": 30,
+        "moq": 30
+      }
+    ]
+  },
+  {
+    "sku": "LX-137",
+    "name": "Puff Calabaza con Pompones",
+    "description": "Espectacular cama redonda con cordón ajustable que permite cerrarla como un nido tipo calabaza o abrirla por completo. Posee pompones juguetones y un interior de felpa sherpa que retiene el calor corporal.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Salmón Coral"],
+    "features": ["Diseño ajustable multi-nido", "Pompones de felpa incluidos", "Aislamiento de frío del piso"],
+    "variants": [
+      {
+        "size": "L",
+        "dimensions": "40x40x30 cm",
+        "price": 30,
+        "moq": 20
+      }
+    ]
+  },
+  {
+    "sku": "LX-132",
+    "name": "Iglú Banqueta Osito",
+    "description": "Cama funcional 2-en-1 con diseño de osito y una tapa desmontable acolchada. Puede utilizarse como un refugio cerrado de privacidad total o como banqueta de descanso superior. Fabricada con materiales de tapicería premium de alta durabilidad.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Gris Ceniza"],
+    "features": ["Estructura rígida desmontable", "Tapa acolchada removible", "Doble espacio de descanso"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "30x30x25 cm",
+        "price": 22,
+        "moq": 25
+      },
+      {
+        "size": "L",
+        "dimensions": "40x40x30 cm",
+        "price": 32,
+        "moq": 25
+      }
+    ]
+  },
+  {
+    "sku": "LX-141",
+    "name": "Domo Orejitas de Gato",
+    "description": "Hermosa cama en forma de domo cerrado con detalles bordados de gatito y tiernas orejitas en el frente. Confeccionada con felpa de pelo corto ultra acogedora y un juguete colgante de pompón que garantiza noches mágicas.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Gris Oxford"],
+    "features": ["Juguete colgante de pompón", "Orejitas decorativas en relieve", "Cojín reversible lavable"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "40x40x32 cm",
+        "price": 25,
+        "moq": 35
+      },
+      {
+        "size": "L",
+        "dimensions": "48x48x40 cm",
+        "price": 35,
+        "moq": 25
+      }
+    ]
+  },
+  {
+    "sku": "LX-139L",
+    "name": "Iglú Calabaza Naranja",
+    "description": "Cama iglú de felpa premium en forma de calabaza de color naranja brillante con hoja verde bordada. Posee una entrada perfecta para aislar el viento y un interior súper acolchado que parece un nido de nubes.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Naranja Otoño"],
+    "features": ["Forma de calabaza acogedora", "Base impermeable de alta resistencia", "Acolchado premium siliconado"],
+    "variants": [
+      {
+        "size": "L",
+        "dimensions": "45x45x38 cm",
+        "price": 35,
+        "moq": 20
+      }
+    ]
+  },
+  {
+    "sku": "LX-139M",
+    "name": "Iglú Calabaza Verde",
+    "description": "Cama iglú de felpa premium en forma de calabaza de color verde bosque con un tierno tallo superior. Ofrece privacidad e inigualable resguardo térmico contra bajas temperaturas para tu mascota.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Verde Bosque"],
+    "features": ["Diseño exclusivo de calabaza", "Efecto madriguera antiestrés", "Relleno hipoalergénico esponjoso"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "40x40x35 cm",
+        "price": 20,
+        "moq": 25
+      }
+    ]
+  },
+  {
+    "sku": "LX-135M",
+    "name": "Cuna Orejas de Conejo Lavanda",
+    "description": "Cómoda cama con hermosas orejas de conejo confeccionada con felpa suave estampada con divertidos motivos musicales sobre un fondo color lavanda. Interior acolchado de borreguito blanco ultra abrigador.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Lavanda Musical"],
+    "features": ["Orejas de conejo lúdicas", "Estampado moderno de alta calidad", "Interior de borrego sintético ultra abrigador"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "42x42x22 cm",
+        "price": 25,
+        "moq": 30
+      }
+    ]
+  },
+  {
+    "sku": "LX-135L",
+    "name": "Cuna Orejas de Conejo Rosado",
+    "description": "Encantadora cama con tiernas orejas de conejo confeccionada con felpa estampada sobre fondo rosado pastel. El borde acolchado y el cojín de borrego blanco brindan una suavidad inigualable para el descanso diario.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Rosado Pastel"],
+    "features": ["Orejas de conejo decorativas", "Interior térmico súper esponjoso", "Apta para lavado a máquina"],
+    "variants": [
+      {
+        "size": "L",
+        "dimensions": "50x50x25 cm",
+        "price": 39,
+        "moq": 30
+      }
+    ]
+  },
+  {
+    "sku": "WO-7/8",
+    "name": "Cuna Ovejita Fluffy",
+    "description": "Cuna circular de borreguito blanco ultra afelpado con la carita bordada de una dulce ovejita negra en el frente. Proporciona una inigualable textura relajante que disminuye la ansiedad y el estrés en cachorros y felinos.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Blanco Ovejita"],
+    "features": ["Efecto calma para mascotas", "Borreguito ultra denso y suave", "Diseño lúdico de ovejita"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "40x40x18 cm",
+        "price": 28,
+        "moq": 30
+      },
+      {
+        "size": "L",
+        "dimensions": "50x50x22 cm",
+        "price": 40,
+        "moq": 30
+      }
+    ]
+  },
+  {
+    "sku": "WO-9",
+    "name": "Cuna Corduroy con Huesito de Felpa",
+    "description": "Elegante cama circular con diseño a rayas corduroy texturizado en los bordes y un suave huesito de felpa amarrado de juguete. Confeccionada con rellenos de alta densidad que no pierden su volumen con el uso.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Verde Pistacho", "Gris Ceniza", "Rosa Algodón"],
+    "features": ["Diseño de corduroy texturizado", "Juguete de huesito incorporado", "Cojín reversible y lavable"],
+    "variants": [
+      {
+        "size": "S",
+        "dimensions": "30x30x18 cm",
+        "price": 12,
+        "moq": 30
+      },
+      {
+        "size": "M",
+        "dimensions": "35x35x20 cm",
+        "price": 19,
+        "moq": 30
+      },
+      {
+        "size": "L",
+        "dimensions": "40x40x23 cm",
+        "price": 29,
+        "moq": 30
+      }
+    ]
+  },
+  {
+    "sku": "LX-133M",
+    "name": "Iglú Osito Rosado",
+    "description": "Cama iglú cerrada con tierno diseño de osito rosa de orejas en relieve y colgante de pompón para juego. El refugio cerrado perfecto para que las mascotas se mantengan protegidas de las corrientes de aire.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Rosa Osito"],
+    "features": ["Diseño de osito con orejas", "Juguete colgante de pompón", "Base impermeable con microperlas"],
+    "variants": [
+      {
+        "size": "M",
+        "dimensions": "40x40x35 cm",
+        "price": 20,
+        "moq": 25
+      }
+    ]
+  },
+  {
+    "sku": "LX-133L",
+    "name": "Iglú Osito Marrón",
+    "description": "Hermosa cama iglú cerrada con diseño de osito color marrón de orejas en relieve y colgante de pompón. Ofrece un espacio seguro, oscuro y extremadamente cálido que favorece el sueño profundo.",
+    "category": "Camas Cerradas / Iglús Warm",
+    "petType": "ambos",
+    "colors": ["Marrón Chocolate"],
+    "features": ["Privacidad y oscuridad óptimas", "Detalles divertidos de osito", "Estructura auto-soportada"],
+    "variants": [
+      {
+        "size": "L",
+        "dimensions": "48x48x40 cm",
+        "price": 30,
+        "moq": 25
+      }
+    ]
+  },
+  {
+    "sku": "WO-6",
+    "name": "Cojín Hámster Súper Soft",
+    "description": "Cama plana tipo dona acolchada con cara de tierno hámster amarillo bordada en el frente. Perfecta para gatos grandes o cachorros que prefieren descansar estirados sobre superficies planas y mullidas.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Amarillo Trigo"],
+    "features": ["Forma plana anatómica", "Lana de algodón de alta densidad", "Superficie de felpa extra suave"],
+    "variants": [
+      {
+        "size": "Estándar",
+        "dimensions": "50x30 cm",
+        "price": 30,
+        "moq": 30
+      }
+    ]
+  },
+  {
+    "sku": "LX-129",
+    "name": "Cuna Zorrillo Fluffy",
+    "description": "Hermosa cuna circular ultra abrigadora y esponjosa de color naranja con detalles de orejas de zorro. Su borde mullido relleno brinda un soporte envolvente espectacular que ayuda a reducir el estrés diario.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Naranja Zorro"],
+    "features": ["Efecto relajante antiestrés", "Borde elevado de soporte cervical", "Material súper esponjoso y térmico"],
+    "variants": [
+      {
+        "size": "L",
+        "dimensions": "50x50x22 cm",
+        "price": 23,
+        "moq": 50
+      }
+    ]
+  },
+  {
+    "sku": "WO-4/5",
+    "name": "Sofá Cocodrilo Divertido",
+    "description": "Divertido sofá alargado en forma de cocodrilo o tiburón de color amarillo, verde o gris. Su forma de barco acuna el cuerpo de tu mascota para una postura relajada y cómoda durante sus siestas de la tarde.",
+    "category": "Camas Abiertas / Camas Soft",
+    "petType": "ambos",
+    "colors": ["Amarillo Cocodrilo", "Verde Cocodrilo", "Gris Cocodrilo"],
+    "features": ["Forma de barco envolvente", "Material de alta resistencia", "Acolchado mullido antiescaras"],
+    "variants": [
+      {
+        "size": "S",
+        "dimensions": "35x25 cm",
+        "price": 10,
+        "moq": 30
+      },
+      {
+        "size": "M",
+        "dimensions": "45x30 cm",
+        "price": 25,
+        "moq": 30
+      }
+    ]
+  }
+]
