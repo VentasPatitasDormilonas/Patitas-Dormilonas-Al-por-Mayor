@@ -1,4 +1,4 @@
-const GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxp2eJqEeEUw2TP1BnSO3fQ-ZqfLKlqPO2ewDySN-UPHaTsP8rIEmEqWz__PT_I-aCJ/exec";
+const GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyEgyG27bMucBl9iNzl40LJ_vbYnsb6N2cv73LC0Ef0C5BhA82Kr_asud-1YiwQPR44/exec";
 
 /**
  * Triggers the Google Apps Script POST webhook to sync order to Google Sheets & send automated Gmails
